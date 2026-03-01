@@ -24,9 +24,5 @@ This application manages college events, registrations, attendance tracking, and
 - Auto event status update
 - Reminder notifications
 
-## Demo Screenshots
-See screenshots folder
-
 ## Author
-Your Name
-College Name
+Kaviya A
